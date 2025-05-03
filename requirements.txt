@@ -1,0 +1,20 @@
+# Core dependencies
+packaging==24.2
+Pillow==9.2.0
+python-dotenv==1.0.1
+fastapi==0.111.0
+uvicorn==0.19.0
+
+# Project-specific dependencies
+phidata
+yfinance
+duckduckgo-search
+groq
+openai
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+streamlit
+google-generativeai
+opencv-python

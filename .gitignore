@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables and sensitive config
+.env
+secrets.json
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor-specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Media files (optional - track only if needed)
+*.mp4
+*.avi
+*.mov
+*.webm
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Uploaded or temp image files
+*.png
+*.jpg
+*.jpeg
+
+# Cache and other
+*.sqlite3
+__temp__/
+tempfile/
